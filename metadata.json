@@ -1,0 +1,6 @@
+{
+  "name": "EA Converter",
+  "description": "Trading Robot Manager and MetaTrader automation hub with live bot execution, MT5 account integration, position monitoring, and license management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
